@@ -1,0 +1,16 @@
+PODS:
+  - EZAudio (0.0.6)
+  - JSQMessagesViewController (6.0.0):
+    - JSQSystemSoundPlayer (~> 2.0.0)
+  - JSQSystemSoundPlayer (2.0.0)
+
+DEPENDENCIES:
+  - EZAudio (~> 0.0.4)
+  - JSQMessagesViewController
+
+SPEC CHECKSUMS:
+  EZAudio: 2f2e5a5094d29ab91d45b229a75c3c31ee26ed1f
+  JSQMessagesViewController: 61c8defbe86f3859f796146f082f8231dad8de66
+  JSQSystemSoundPlayer: c98443b1cbb3b45db09d0d3d6c2355cf78294981
+
+COCOAPODS: 0.34.4
